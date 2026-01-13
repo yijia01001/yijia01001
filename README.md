@@ -8,15 +8,20 @@
 ## 🚀 跨学科转型之路 (Interdisciplinary Journey)
 - **哲学背景**: 结构化思维，批判性视角，严谨逻辑推理，高度抽象化能力
 - **自学路径**:
-  - **SQL**: 独立完成 200+ 道 [牛客网/LeetCode] 练习，熟练掌握窗口函数与复杂关联查询
-  - **Python**: 自学 **Pandas** 与 **NumPy**，能够处理千万级数据的清洗与特征工程
-  - **统计学**: 系统自学了回归分析与假设检验，并应用于实际数据项目中
+  - **SQL**
+    - 理论体系：通过系统课程配合 SQLZoo（一个交互式练习平台）完成从 0 到 1 的框架搭建
+    - 实战通关：完成牛客网（Nowcoder）100+ SQL 专项题，熟练掌握子查询 (Subqueries)、窗口函数(Window Functions)、复杂多表关联(Joins)等
+  - **Python**
+    - 理论体系：通过系统课程掌握 Python、Pandas、NumPy 基本语法和算法逻辑，配合 FreeCodeCamp 进行巩固练习
+    - 实战通关：参与 Kaggel 经典竞赛如 House Prices，独立完成从数据清洗、特征工程到模型训练的全流程建模
+  - **其他**
+    - **可视化** 利用 Tableau 与 Matplotlib 将复杂分析结果转化为商业洞察看板
+    - **统计学** 系统自学了回归分析与假设检验等基础理论，并应用于实际数据项目中
 
 ## 🛠️ 技术栈 (Tech Stack)
-- **编程语言**: Python, SQL
+- **编程语言**: SQL, Python
 - **数据处理**: Pandas, NumPy
 - **数据可视化**: Tableau, Matplotlib, Seaborn
 - **统计分析**: 假设检验, 回归分析 (Regression Analysis)
 
-## 📫 联系方式 (Contact)
-- **Email**: yijia01001@gmail.com
+## 个人作品
