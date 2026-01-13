@@ -11,4 +11,4 @@
 - **统计分析**: 假设检验, 回归分析 (Regression Analysis)
 
 ### 📫 联系方式 (Contact)
-- **Email**: [yijia01001@gmail.com]
+- **Email**: yijia01001@gmail.com
